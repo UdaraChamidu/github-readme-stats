@@ -1,4 +1,5 @@
 // @ts-check
+export const runtime = "nodejs";
 
 import { renderStatsCard } from "../src/cards/stats.js";
 import { guardAccess } from "../src/common/access.js";
